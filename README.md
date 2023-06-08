@@ -174,7 +174,7 @@ The code generates two recommendations for the song The Scientist by Coldplay, 1
 
 ## Authors
 
-* **Yashwanth S C** - *Initial work* 
+* **Vikram Shenoy** - *Initial work* - [Vikram Shenoy](https://github.com/VikramShenoy97)
 
 ## Acknowledgments
 
